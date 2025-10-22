@@ -14,5 +14,8 @@ def add(a, b):
 
 # This is a comment
 #My name is Sabarish
+<<<<<<< HEAD
 #My name is Sasa
 #My name is Sisi
+=======
+>>>>>>> 7229854b3818e81732492bcc146e9737189537bf
