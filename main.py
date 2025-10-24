@@ -27,3 +27,15 @@ def add(a, b):
 
 #My name is Haha
 #My name is Huhu
+
+#My name is Jaja
+#My name is Jeje
+
+#My name is Kaka
+#My name is Keke
+
+#My name is Keke
+#My name is Kiki
+
+#My name id Koko
+#My name is Kuku
