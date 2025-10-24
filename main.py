@@ -20,7 +20,6 @@ def add(a, b):
 #My name is Sese
 
 #My name is Gaga
-<<<<<<< HEAD
 #My name is Gege
 
 #My name is Gigi
@@ -28,6 +27,3 @@ def add(a, b):
 
 #My name is Haha
 #My name is Huhu
-=======
-#My name is Gege
->>>>>>> parent of a5dfaa3 (N)
