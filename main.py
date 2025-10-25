@@ -56,8 +56,5 @@ def add(a, b):
 #My name is Momo
 #My name is Mumu
 
-#My name is Nana
-#My name is Nene
-
-#My name is Nini
-#My name is Nono
+#My name is Xaxa
+#My name is Xexe
